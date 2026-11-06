@@ -32,8 +32,6 @@ This project analyzes customer shopping behavior to uncover spending patterns, c
 - Review discount policy to protect margins
 - Focus marketing on high-revenue age groups
 
-## Dashboard Preview
-![Dashboard](images/dashboard.png)
 
 ## Repository Structure
 - `Customer_Shopping_Behavior_Analysis.ipynb`: Python notebook
