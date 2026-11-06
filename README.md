@@ -41,5 +41,4 @@ This project analyzes customer shopping behavior to uncover spending patterns, c
 
 
 ## Author
-Santhosh Varma Rudraraju
-[LinkedIn link] | santhoshvarma2004@gmail.com
+Santhosh Varma Rudraraju | santhoshvarma2004@gmail.com
